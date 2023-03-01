@@ -1,0 +1,3 @@
+01/02/2023	Kemper Corporation - Kemper Corporation - MT	1	Meetings (Client)	Daily Meeting	Client Daily Meeting	Eric Jones
+01/02/2023	Kemper Corporation - Kemper Corporation - MT	1	Meetings (Internal)	Team Meeting	Team Daily Meeting	Eric Jones
+01/02/2023	Kemper Corporation - Kemper Corporation - MT	7	Other	Other Task Category	Sprint Planning, Tracking, Unblocking Devs	Eric Jones
