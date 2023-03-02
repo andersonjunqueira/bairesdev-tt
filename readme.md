@@ -1,7 +1,7 @@
 one time tasks: 
 
-install NodeJS version >= 13
-run "npm install"
+1. install NodeJS version >= 13
+2. run "npm install"
 
 to use it:
 
